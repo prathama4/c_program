@@ -1,0 +1,3 @@
+C:/Users/sudip/OneDrive/Documents/GitHub/c_program/cmake-build-debug/CMakeFiles/c_program.dir
+C:/Users/sudip/OneDrive/Documents/GitHub/c_program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sudip/OneDrive/Documents/GitHub/c_program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
